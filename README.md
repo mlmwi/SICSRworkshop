@@ -1,0 +1,2 @@
+# SICSRworkshop
+Git Workshop @ SICSR
